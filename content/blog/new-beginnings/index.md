@@ -6,6 +6,6 @@ description: This is my first blog. Here you can find some categories of blogs l
 
 ## Alhamdulillah for always giving me what I needed instead of what I wanted.
 
-All of ypu can search me out at different platforms
+All of you can search me out at different platforms
 1. [Facebook](https://www.facebook.com/hafizj1125)
 2. [Instagram](https://www.instagram.com/chachuj1125/)
