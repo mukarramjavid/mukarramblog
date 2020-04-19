@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Mukarram Blog`,
     author: {
-      name: `Muakrram Javid`,
+      name: `Mukarram Javid`,
       summary: `who lives and works in Lahore/Pakistan building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
