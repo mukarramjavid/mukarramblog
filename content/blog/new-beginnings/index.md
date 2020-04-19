@@ -1,7 +1,7 @@
 ---
 title: First Blog
 date: "2020-04-19T22:45:32.169Z"
-description: This is my first blog. Here you can find some categories of blogs like Islamic Theories, Social Activities etc.
+description: This is my first blog. Here you can find some categories of blogs like Islamic Theories, Social Activities and Regular Activities etc.
 ---
 
 ## Alhamdulillah for always giving me what I needed instead of what I wanted.
