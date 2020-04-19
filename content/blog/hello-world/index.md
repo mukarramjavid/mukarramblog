@@ -1,7 +1,7 @@
 ---
 title: Salted Eggs
 date: "2020-04-19T22:12:03.284Z"
-description: "Hello World"
+description: "salted eggs"
 ---
 
 This is my first post on my new blog! How exciting!
