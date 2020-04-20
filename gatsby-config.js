@@ -8,7 +8,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://mukarramblog.netlify.app/`,
     social: {
-      twitter: `hafizj1125`,
+      facebook: `hafizj1125`,
     },
   },
   plugins: [
