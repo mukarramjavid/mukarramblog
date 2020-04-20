@@ -59,8 +59,8 @@ const Bio = () => {
       <p>
        Hi! I am <strong>{author.name}</strong>! {author.summary}
         {` `}
-        <a href={`https://facebook.com/${social.facebook}`}>
-          You can follow me on facebook
+        <a href={`https://facebook.com/${social.facebook}`} target="_blank">
+          You can follow me on Facebook
         </a>
       </p>
     </div>
