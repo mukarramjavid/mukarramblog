@@ -3,7 +3,7 @@ module.exports = {
     title: `Mukarram Blog`,
     author: {
       name: `Mukarram Javid`,
-      summary: `lives and works in Lahore/Pakistan building useful things.`,
+      summary: `I'm doing BS Computer Science from University of Engineering and Technology Lahore, New Campus KSK.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://mukarramblog.netlify.app/`,
