@@ -5,7 +5,7 @@ module.exports = {
       name: `Mukarram Javid`,
       summary: `I'm doing BS Computer Science from University of Engineering and Technology Lahore, New Campus KSK.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Web Developer`,
     siteUrl: `https://mukarramblog.netlify.app/`,
     social: {
       facebook: `hafizj1125`,
