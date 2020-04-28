@@ -3,9 +3,6 @@ title: Salted Eggs
 date: "2020-04-19T22:12:03.284Z"
 description: "salted eggs"
 ---
-
-This is my first post on my new blog! How exciting!
-
 I'm sure I'll write a lot more interesting things in the future.
 
 Oh, and here's a great quote from this Wikipedia on
