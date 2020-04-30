@@ -9,6 +9,6 @@ description: "ایمان کا بیان"
 
 ### 'Ali observed: By Him Who split up the seed and created something living, the Apostle (may peace and blessings be upon him) gave me a promise that no one but a believer would love me, and none but a hypocrite would nurse grudge against me. 
 
-Chapter 1 |  	The Book of Faith |
-Sahih Muslim | Hadith # 240 |
+Sahih Muslim | Chapter 1 |  	The Book of Faith |
+ Hadith # 240 |
 [Ref](https://hamariweb.com/islam/hadith/sahih-muslim-240/)
