@@ -12,4 +12,5 @@ description: Here is the list of my some small react base projects.
 4. [Top 5 Netflix Series](https://top5mini-netflix-site.netlify.app/)
 5. [Moddle-keep](https://moddle-keep.netlify.app/)
 6. [Pokemon GO](https://pokemon-go-api.netlify.app/) 
-7. [Wazir Tech](https://wazir-tech.netlify.app) 
+7. [Wazir Tech](https://wazir-tech.netlify.app) '
+8. [Weather App](https://hmj-weather-app.netlify.app/)
