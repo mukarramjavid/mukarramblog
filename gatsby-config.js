@@ -8,7 +8,7 @@ module.exports = {
     description: `Web Developer`,
     siteUrl: `https://mukarramblog.netlify.app/`,
     social: {
-      facebook: `hafizj1125`,
+      github: `mukarramjavid`,
     },
   },
   plugins: [
