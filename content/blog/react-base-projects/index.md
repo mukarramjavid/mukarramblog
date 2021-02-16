@@ -8,7 +8,7 @@ description: Here is the list of my some small react base projects.
 
 1. [Shopping list App](https://laundarylist.netlify.app/)  
 2. [City Tour App](https://city-world-tour.netlify.app/)  
-3. [Mukarram Javid](https://mukarramjavid.netlify.com/)
+3. [Mukarram Javid](https://mukarramjaved.web.com/)
 4. [Top 5 Netflix Series](https://top5mini-netflix-site.netlify.app/)
 5. [Moddle-keep](https://moddle-keep.netlify.app/)
 6. [Pokemon GO](https://pokemon-go-api.netlify.app/) 
