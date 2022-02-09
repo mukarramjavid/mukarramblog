@@ -3,12 +3,12 @@ module.exports = {
     title: `Mukarram Blog`,
     author: {
       name: `Mukarram Javid`,
-      summary: `I've done my BS Computer Science from University of Engineering and Technology, Lahore, New Campus.`,
+      summary: `I've done my BS Computer Science from University of Engineering and Technology in 2020, Lahore, New Campus.`,
     },
     description: `Web Developer`,
     siteUrl: `https://mukarramblog.netlify.app/`,
     social: {
-      facebook: `hafizj1125`,
+      facebook: `mukarram365`,
     },
   },
   plugins: [
