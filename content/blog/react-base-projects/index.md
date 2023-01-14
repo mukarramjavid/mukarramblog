@@ -6,7 +6,7 @@ description: Here is the list of my some small react base projects.
 
 #My Projects are following below
 1. [Next Travel (Blogging App)](https://nexttravel.netlify.app/)
-2. [Mukarram Javid](https://mukarramjaved.web.app/)
+2. [Mukarram Javid](https://mukarramjavid.web.app/)
 3. [Shopping list App](https://laundarylist.netlify.app/)  
 4. [City Tour App](https://city-world-tour.netlify.app/)
 5. [Top 5 Netflix Series](https://top5mini-netflix-site.netlify.app/)
